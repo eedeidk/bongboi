@@ -1,5 +1,5 @@
 [![bongboi](https://img.shields.io/endpoint?color=neon&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fbongboi)](https://t.me/bongboi)
- [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) ![stars](https://img.shields.io/github/stars/eedeidk/bongboi) ![forks](https://img.shields.io/github/forks/eedeidk/bongboi)
+ [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/) ![stars](https://img.shields.io/github/stars/eedeidk/bongboi) ![forks](https://img.shields.io/github/forks/eedeidk/bongboi)
 
 # bongboi / টেলিবই
 This repo contains bengali EPUB books which are out of copyright & available in Public Domains. Find all of them at https://t.me/bongboi
